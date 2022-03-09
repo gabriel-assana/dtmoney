@@ -1,46 +1,51 @@
-# Getting Started with Create React App
+<h1 align="center">
+  <img src="./src/assets/" height="100px" alt="DT money"/>
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h2 align="center" >Descrição do Projeto</h2>
+<p align="center">
+  Aplicação desenvolvida durante o Chapter II do Ignite React da Rocketseat.
+</p>
+<p align="center">
+  O Dt Money é uma aplicação para controle de financias, dando ao usuario controle de suas despesas e lucros.
+</p>
 
-## Available Scripts
 
-In the project directory, you can run:
+## :rocket: Tecnologias
 
-### `npm start`
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+✔️ React
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+✔️ Typescript
 
-### `npm test`
+✔️ MirageJs
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+✔️ Styled-components
 
-### `npm run build`
+✔️ React-hooks
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+✔️ Axios
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+✔️ Context-API
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<h1 align="center">
+  <img alt="DT money" title="#logo" src="./src/assets/" />
+</h1>
+<h2>Pré-requisitos</h2>
 
-### `npm run eject`
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com) e [Node](https://nodejs.org/pt-br/).
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# 👨‍💻 Rodando o Front End
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+```bash
+# Clone este repositório
+$ git clone https://github.com/gabriel-assana/dtmoney
+# Acesse a pasta do projeto no terminal/cmd
+$ cd dtmoney
+# Abra um novo terminal e execute a aplicação em modo de desenvolvimento
+$ yarn start
+# O servidor do front-end inciará na porta:3000 - acesse <http://localhost:3000/>
