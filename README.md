@@ -27,6 +27,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ✔️ Styled-components
 
 ✔️ React-hooks
+    
+✔️ React-modal
 
 ✔️ Axios
 
