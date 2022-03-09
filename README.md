@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./src/assets/" height="100px" alt="DT money"/>
+  <img src="./src/assets/dtmoney.png" height="100px" alt="DT money"/>
 </h1>
 
 <h2 align="center" >Descrição do Projeto</h2>
@@ -10,6 +10,9 @@
   O Dt Money é uma aplicação para controle de financias, dando ao usuario controle de suas despesas e lucros.
 </p>
 
+<h1 align="center">
+  <img alt="DT money" title="#logo" src="./src/assets/dtmoney.gif" />
+</h1>
 
 ## :rocket: Tecnologias
 
@@ -29,9 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ✔️ Context-API
 
-<h1 align="center">
-  <img alt="DT money" title="#logo" src="./src/assets/" />
-</h1>
+
 <h2>Pré-requisitos</h2>
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
